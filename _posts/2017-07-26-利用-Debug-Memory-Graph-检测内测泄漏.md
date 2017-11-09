@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:小黄黄贼帅
+title:      小黄黄贼帅
 subtitle:   利用 Xcode 内存表（Debug Memory Graph）检测内测泄漏
 date:       2017-07-26
 author:     BY
